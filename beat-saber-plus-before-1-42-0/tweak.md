@@ -1,7 +1,7 @@
 # Using BeatSaberPlus mod, with other mods, on versions below 1.42.0, some UI symbols turn into ?s
 
 ## So short recap!
-Beat Saber on Linux doesn't have `Segue UI Symbol` fonts that BSML (Beat Saber Markup Language) uses, so to fix the symbols you need to manually install `seguisym.ttf`
+Beat Saber on Linux doesn't have `Segoe UI Symbol` fonts that BSML (Beat Saber Markup Language) uses, so to fix the symbols you need to manually install `seguisym.ttf`
 
 That's all fun, until you use the BeatSaberPlus mod, beacuse that uses `segoeui.ttf` fonts for it's own UI, heck it even installs both `segoeui.ttf` and `seguisym.ttf` on game launch if they're missing.
 
