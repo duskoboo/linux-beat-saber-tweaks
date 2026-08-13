@@ -1,4 +1,4 @@
-# Using BeatSaberPlus mod, with other mods, on versions below 1.42.0, so UI symbols don't turn into ?s
+# Using BeatSaberPlus mod, with other mods, on versions below 1.42.0, some UI symbols don't turn into ?s
 
 ## So short recap!
 Beat Saber on linux doesn't have `Segue UI Symbol` fonts that BSML (Beat Saber Markup Language) uses, so to fix the symbols you need to manually install `seguisym.ttf`
