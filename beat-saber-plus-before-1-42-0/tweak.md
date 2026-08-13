@@ -5,7 +5,7 @@ Beat Saber on linux doesn't have `Segue UI Symbol` fonts that BSML (Beat Saber M
 
 That's all fun, until you use the BeatSaberPlus mod, beacuse that uses `segoeui.ttf` fonts for it's own UI, heck it even installs both `segoeui.ttf` and `seguisym.ttf` on game launch if they're missing.
 
-The problem is that those fonts have overlapping unicode declarations, so.. BSML doesn't really know how to handle that **(This behavior was changed, I was only able to replicate it on version 1.40.8 and below, but those are still recommended version, as of when I'm writing this)**
+The problem is that those fonts have overlapping unicode declarations, so.. BSML doesn't really know how to handle that **(This behavior was changed, I was only able to replicate it on version 1.40.8 and below, but this are still recommended version, as of when I'm writing this)**
 
 ## The fix
 It's rather simple actualy.. you need to merge those fonts!
