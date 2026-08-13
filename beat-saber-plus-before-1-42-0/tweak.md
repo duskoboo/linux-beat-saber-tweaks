@@ -15,7 +15,7 @@ So get the `segoeui.ttf` and `seguisym.ttf` fonts from a legit copy of windows..
 And using something like `fonttools` from pip (`pip install fonttools`), merge them with this command:
 `pyftmerge segoeui.ttf seguisym.ttf --output-file=segoeui.ttf`
 
-..or if you don't feel like doing all that, get the merged font from [here]()
+..or if you don't feel like doing all that, get the merged font from [here](https://github.com/duskoboo/linux-beat-saber-tweaks/blob/main/beat-saber-plus-before-1-42-0/segoeui.ttf)
 
 Either way, make sure the combined font is named `segoeui.ttf`, as that's what BeatSaberPlus uses.
 
