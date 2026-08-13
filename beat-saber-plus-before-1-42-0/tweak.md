@@ -25,6 +25,7 @@ Path to `compatdata`:
  - Steam: `<your SteamLibary path>/steamapps/compatdata/620980`
  - BSManager: `<your BSManager Installation folder>/SharedContent/compatdata`
  - encore: `~/.config/encore/compatdata`
+
 **(This of course depends on your installation method)**
 
 Path to Fonts directory:
